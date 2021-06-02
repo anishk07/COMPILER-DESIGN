@@ -1,0 +1,4 @@
+class Box extends Square{ 
+int a,b,c; 
+public static void main (String a[] ) 
+{ } } 
