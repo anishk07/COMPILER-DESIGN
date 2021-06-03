@@ -1,3 +1,5 @@
+ /* @author: ANISHK YADAV */
+
 %{
 #include<stdio.h>
 %}
