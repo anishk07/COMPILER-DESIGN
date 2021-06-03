@@ -1,4 +1,4 @@
-//@author : ANISHK YADAV
+ /* @author : ANISHK YADAV */
 
 %{ 
 #include<math.h> 
